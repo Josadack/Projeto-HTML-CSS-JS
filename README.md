@@ -1,2 +1,2 @@
 # Projeto HTML-CSS-JS
- Meu projeto 
+ Projeto com animações basicas em CSS, e alguns comando simples em Java Script..
